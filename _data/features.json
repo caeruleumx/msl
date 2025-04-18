@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Erst-Gespräch",
+    "description": "Kontaktieren sie uns gerne für ein unverbindliches & kostenloses Erst-Gespräch.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Bilanz Buchhalter",
+    "description": "Unsere Angestellen sind erfahrene Bilanz Buchhalter",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
