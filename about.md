@@ -9,7 +9,9 @@ bodyClass: page-about
 
 Seit [Gründungsjahr] stehen wir kleinen und mittelständischen Unternehmen mit kompetenter Beratung und maßgeschneiderten Lösungen in den Bereichen **Buchhaltung** und **Controlling** zur Seite. Unser Anspruch: Verlässlichkeit, Transparenz und Effizienz.
 
-Unser Team aus erfahrenen Buchhaltern und Buchalterinnen unterstützt Sie dabei, Ihre Finanzen im Blick zu behalten, Potenziale zu erkennen und strategische Entscheidungen auf fundierter Datenbasis zu treffen.
+Unsere Inhaber sind gelernte Steuerfachangestellte und Bilanzbuchhalter und waren über 30 Jahre in leitenden Positionen in der freien Wirtschaft tätig.
+
+Wir unterstützen Sie dabei, Ihre Finanzen im Blick zu behalten, Potenziale zu erkennen und strategische Entscheidungen auf fundierter Datenbasis zu treffen.
 
 ### Was uns auszeichnet:
 - **Persönliche Betreuung:** Fester Ansprechpartner und individuelle Lösungen
